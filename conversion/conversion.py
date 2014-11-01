@@ -85,7 +85,3 @@ def time(time, delta):
         finalhour = finalhour - 12
 
     return str(finalhour) + ":" + finalminute
-
-print time("2:30", "1:93")
-
-
